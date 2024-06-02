@@ -1,0 +1,6 @@
+cv2
+pyzbar
+requests
+PIL
+base64
+bs4
